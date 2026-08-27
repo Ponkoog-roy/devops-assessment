@@ -208,7 +208,4 @@ MIT
 
 ---
 
-## 👤 Author
 
-**Rezaul Karim**
-- GitHub: [@webrezaul](https://github.com/webrezaul)
